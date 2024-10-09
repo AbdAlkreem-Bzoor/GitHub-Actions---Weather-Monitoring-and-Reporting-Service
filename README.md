@@ -1,0 +1,1 @@
+[![build and test](https://github.com/AbdAlkreem-Bzoor/GitHub-Actions---Weather-Monitoring-and-Reporting-Service/actions/workflows/test.yml/badge.svg)](https://github.com/AbdAlkreem-Bzoor/GitHub-Actions---Weather-Monitoring-and-Reporting-Service/actions/workflows/test.yml)
